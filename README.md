@@ -1,1 +1,4 @@
-# program
+class Name{
+
+
+}
